@@ -1,5 +1,3 @@
-// Nama : Yusna Millaturrosyidah
-// NRP : 5025211254
 /*
  * Copyright (C) 2023 The Android Open Source Project
  *
